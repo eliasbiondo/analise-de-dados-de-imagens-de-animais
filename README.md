@@ -34,7 +34,7 @@ Este repositório contém um notebook que abrange várias etapas da análise de 
 
 ## Acesso ao Notebook
 
-Para acessar o notebook completo e explorar a análise em detalhes, clique [aqui](link_para_o_notebook).
+Para acessar o notebook completo e explorar a análise em detalhes, clique [aqui](/Notebook/Análise_de_Dados_de_Imagens_de_Animais.ipynb).
 
 ## Conclusões Pessoais
 
